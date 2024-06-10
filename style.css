@@ -1,0 +1,135 @@
+body{
+    font-family: "Arimo", sans-serif;
+    background-image: linear-gradient(10deg, #477C9C, #B5C2CA, #ffffff  );
+}
+#imgQmSomos{
+    object-fit: cover;
+    width: 400px;
+    height: 450px;
+}
+.modal-content{
+    background-image: linear-gradient(30deg, #B5C2CA, #ffffff  );
+}
+.card{
+    background-image: linear-gradient(30deg, #B5C2CA, #ffffff  );
+}
+.carousel-item img{
+    max-height: 600px;
+    object-fit: cover;
+    width: 100%;
+}
+.arimo {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+* {
+    --primary-color: #477C9C;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+.navbar-brand,
+.text-primary{
+    color: #396c8a !important;
+}
+
+.btn-primary{
+    background-color: #477d9c !important;
+    border: none;
+}
+
+.nav-link:hover{
+    color: #2f4350;
+}
+
+p{
+    font-size: 18px;
+}
+.btn-primary:hover{
+    background-color: #477d9c !important;
+}
+.blue-bg{
+    background-color: #477d9c;
+    color:#fff;
+}
+.ionicons{
+    color: #477d9c;
+    background-color: #f2f2f2;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 12px;
+}
+
+.nav-tabs{
+    border:none;
+}
+
+.nav-tabs .active{
+    background-color: #477d9c !important;
+    border: none;
+    color: #fff !important;
+}
+
+.footer-section{
+    background-color: #477d9c !important;
+    border: none;
+    color: #fff !important;
+}
+#myTab button{
+    background-color: #B5C2CA;
+}
+html{
+    background-color: #477d9c ;
+}
+.gtranslate-container {
+    position: fixed;
+    right: auto;
+}
+.gtranslate-container {
+    background-image: linear-gradient(30deg, #B5C2CA, #ffffff  );
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.gtranslate-flag {
+    width: 24px;
+    height: auto;
+    margin-right: 5px;
+}
+.gtranslate-language {
+    font-size: 14px;
+}
+.gtranslate-current-language {
+    font-weight: bold;
+}
+footer{
+    background-image: linear-gradient(180deg, #477C9C, #477c9d);
+}
+#myTabContent img{
+    height: 400px;
+    width: 390px;
+}
+#navProd{
+    height: 150px;
+}
+#map span h1{
+    text-align: center;
+    color: #ffffff;
+}
+#map p{
+    text-align: center;
+    color:#ffffff ;
+}
+iframe{
+    align-items: center;
+}
